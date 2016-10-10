@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="t_from_p" max_length="40" name="x_child_smoke_t_from_p" type="collection"/>
+</database>
